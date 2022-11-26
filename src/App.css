@@ -1,0 +1,46 @@
+.weatherBg{
+    background: url(https://www.wallpapertip.com/wmimgs/26-268418_sunsets-fiery-sunset-colorful-skies-ocean-sky-colors.jpg);
+    height: 50vh;
+    display: flex;
+    align-items: center;
+    flex-direction: column;
+    justify-content: center;
+}
+.heading{
+    color: white;
+    font-weight: 700;
+
+}
+
+.weatherResultBox{
+    margin: auto;
+    width: 500px;
+    height: 300px;
+
+}
+
+.weatheIcon{
+    margin: 2rem;
+    width: 100px;
+    height: 100px;
+
+
+}
+
+.weatherCity{
+    font-size: 35px;
+}
+
+.weatherTemp{
+    font-size: 55px;
+    font-weight: 700;
+}
+
+.weatherMinTemp{
+    text-align: left;
+}
+
+.weatherMaxTemp{
+    text-align: right;
+
+}
